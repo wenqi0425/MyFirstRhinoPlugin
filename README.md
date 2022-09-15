@@ -1,4 +1,4 @@
-# MyFirstRhinoPlugin
+# My First Rhino Plugin
 
 It is my first Rhino Plugin Exercise. 
 
