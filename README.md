@@ -2,7 +2,7 @@
 
 It is my first Rhino Plugin Exercise. 
 
-It contains two command. 
+It contains two commands. 
 1) DrawLine
 2) DrawPolyline
 
